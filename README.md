@@ -1,2 +1,2 @@
 # demo1
-demo github
+used for description of the project. Demo 
